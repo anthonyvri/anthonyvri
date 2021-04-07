@@ -9,6 +9,8 @@ Software Developer<br>
 Currently learning more about Java
 </p>
 
+---
+
 <h3 align="center">Languages and Tools</h3>
 <p align="center"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="img/html-logo.png" alt="html5" width="40" height="40"/> </a> 
