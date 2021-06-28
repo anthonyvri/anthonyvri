@@ -6,7 +6,7 @@
 
 <p align="center">
 Software Developer<br>
-Currently learning more about Java
+Currently learning more about Java and WordPress!
 </p>
 
 ---
